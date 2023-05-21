@@ -21,3 +21,14 @@ Software for recording measurements made by sensors
 # Description
 
 Displays on the screen values of magnitudes measured and sent to the RS232 serial port of a computer  
+
+# Configuration files
+
+- serialport.json
+> JSON file for the configuration of the connection to the RS232 port
+- sensorviewer.json
+> JSON file for the configuration of the sensor value records
+- parameters.json
+> JSON file for the configuration of the magnitudes and units of measurement that will be displayed
+
+
