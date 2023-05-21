@@ -24,9 +24,9 @@ Displays on the screen values of magnitudes measured and sent to the RS232 seria
 
 # How to run
 
-- Download `[Arduino IDE](https://www.arduino.cc/en/software)`
+- Download [`Arduino IDE`](https://www.arduino.cc/en/software)
 - Install Arduino IDE
-- Download `[Processing IDE]([https://google.com](https://processing.org/download))`
+- Download [`Processing IDE`]([https://google.com](https://processing.org/download))
 - Install Processing IDE
 
 # Configuration files
