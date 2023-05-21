@@ -33,9 +33,11 @@ Displays on the screen values of magnitudes measured and sent to the RS232 seria
 
 # Configuration example
 
-1- **serialport.json**
+Example configuration in MacOS: 
 
-Example configuration in MacOS
+> This software can be tested by loading in an Arduino UNO the file ***/src/RandomData_Generator.ino***, the configuration files corresponding to this example are in ***/src/configfiles***.
+
+1. **serialport.json**
 
 ```json
 {
@@ -47,7 +49,7 @@ Example configuration in MacOS
 }     
 ```
 
-2- **sensorviewer.json**
+2. **sensorviewer.json**
 
 ```json
 {
@@ -59,7 +61,7 @@ Example configuration in MacOS
 }
 ```
 
-3- **parameters.json**
+3. **parameters.json**
 
 ```json
 [
