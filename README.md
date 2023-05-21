@@ -2,7 +2,11 @@
 
 Software for recording measurements made by sensors
 
-Version
+<p align="center">
+<img src="/image/SensorViewer_Screenshot.png" width="500">
+</p>
+
+# Version
 
 1.0
 
