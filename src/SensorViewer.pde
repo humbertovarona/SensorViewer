@@ -58,7 +58,7 @@ void setup () {
   svReadingFrequency = SensorViewerConfig.getInt("Reading_Frequency");
   svFieldSeparator = SensorViewerConfig.getString("Field_Separator"); 
   svDumpFile = SensorViewerConfig.getInt("Dumpfile");
-  svFilename = SensorViewerConfig.getString("Finlename"); 
+  svFilename = SensorViewerConfig.getString("Filename"); 
   svDateTime = SensorViewerConfig.getInt("AddDateAndTime");
   
   ParameterList = loadJSONArray("parameters.json");
