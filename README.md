@@ -22,6 +22,13 @@ Software for recording measurements made by sensors
 
 Displays on the screen values of magnitudes measured and sent to the RS232 serial port of a computer  
 
+# How to run
+
+- Download `[Arduino IDE](https://www.arduino.cc/en/software)`
+- Install Arduino IDE
+- Download `[Processing IDE]([https://google.com](https://processing.org/download))`
+- Install Processing IDE
+
 # Configuration files
 
 - serialport.json
