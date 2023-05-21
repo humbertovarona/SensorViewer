@@ -16,7 +16,7 @@ Software for recording measurements made by sensors
 
 # DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7955166.svg)](https://doi.org/10.5281/zenodo.7955166)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7955233.svg)](https://doi.org/10.5281/zenodo.7955233)
 
 # Description
 
@@ -61,7 +61,7 @@ Example configuration in MacOS:
 }
 ```
 > Parameterization
-> > Reading_Frequency
+> > ***Reading_Frequency***
 > > > Frequency in milliseconds for saving data to file.
 
 > > Field_Separator
