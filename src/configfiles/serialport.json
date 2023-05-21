@@ -1,0 +1,7 @@
+{
+    "SerialPort": "/dev/cu.usbserial-1470",
+    "BaudRate": 9600,
+    "DataBits": 8,
+    "StopBits": 1,
+    "Parity": "N"
+}

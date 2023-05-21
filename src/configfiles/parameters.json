@@ -1,0 +1,43 @@
+[
+    {
+        "parameter":"TDS",
+        "unit":"ppm"
+    },
+    {
+        "parameter":"Temperature",
+        "unit":"°C"
+    },
+    {
+        "parameter":"Conductivity",
+        "unit":"mS/cm"
+    },
+    {
+        "parameter":"Salinity",
+        "unit":"PSU"
+    },
+    {
+        "parameter":"Depth",
+        "unit":"m"
+    },
+    {
+        "parameter":"Turbidity",
+        "unit":"FTU"
+    },
+    {
+        "parameter":"Secchi disk depth",
+        "unit":"m"
+    }
+    ,
+    {
+        "parameter":"Speed current",
+        "unit":"m/s"
+    },
+    {
+        "parameter":"Direction current",
+        "unit":"°"
+    },
+    {
+        "parameter":"pH",
+        "unit":""
+    }
+]
