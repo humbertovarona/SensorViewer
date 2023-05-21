@@ -2,6 +2,6 @@
     "Reading_Frequency": 5000,
     "Field_Separator": ";",
     "Dumpfile": 1,
-    "Finlename": "dumpfile.txt",
+    "Filename": "dumpfile.txt",
     "AddDateAndTime": 1
 }
