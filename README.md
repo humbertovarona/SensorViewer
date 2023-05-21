@@ -63,9 +63,13 @@ Example configuration in MacOS:
 > Parameterization
 > > Reading_Frequency
 > > > Frequency in milliseconds for saving data to file.
+
 > > Field_Separator
+
 > > Dumpfile
+
 > > Filename
+
 > > AddDateAndTime
 
 3. **parameters.json**
