@@ -22,12 +22,16 @@ Software for recording measurements made by sensors
 
 Displays on the screen values of magnitudes measured and sent to the RS232 serial port of a computer  
 
-# How to run
+# How to test this software?
 
 - Download [`Arduino IDE`](https://www.arduino.cc/en/software)
 - Install Arduino IDE
+- Load ***/src/RandomData_Generator.ino*** into the Arduino IDE, select an Arduino UNO board, select the serial port and upload the Sketch.
 - Download [`Processing IDE`](https://processing.org/download)
 - Install Processing IDE
+- Load ***/src/SensorViewer.pde*** into the Porcessing IDE 
+- Configure the files: ***serialport.json***, ***sensorviewer.json*** and ***parameters.json***
+- In the **Sketch** menu select **Run**
 
 # Configuration files
 
