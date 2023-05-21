@@ -16,7 +16,7 @@ authors:
       Department of Oceanography. Federal University
       of Pernambuco. Recife-PE. Brazil
     orcid: 'https://orcid.org/0000-0001-7405-4827'
-repository-code: 'https://doi.org/10.5281/zenodo.7955166'
+repository-code: 'https://doi.org/10.5281/zenodo.7955233'
 abstract: >-
    Displays on the screen values of magnitudes measured and sent to the RS232 serial port of a computer.
 keywords:
