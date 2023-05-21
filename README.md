@@ -63,17 +63,20 @@ Example configuration in MacOS:
 > **Parameterization**
 >> ***Reading_Frequency***
 >>> Frequency in milliseconds for saving data to file.
+
 >> ***Field_Separator***
 >>> Data separator.
+
 >> ***Dumpfile***
 >>> 1 Save the data to a file.
 >>> 0 Data display only.
+
 >> ***Filename***
 >>> Filename where the data will be saved.
 
-> > ***AddDateAndTime***
-> > > 1 The first column will store the date and time.
-> > > 0 The first column will store the values of the first magnitude.
+>> ***AddDateAndTime***
+>>> 1 The first column will store the date and time.
+>>> 0 The first column will store the values of the first magnitude.
 
 3. **parameters.json**
 
