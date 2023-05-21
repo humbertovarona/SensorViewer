@@ -31,4 +31,17 @@ Displays on the screen values of magnitudes measured and sent to the RS232 seria
 - parameters.json
 > JSON file for the configuration of the magnitudes and units of measurement that will be displayed
 
+# Configuration example
+
+1- **serialport.json**
+
+```json
+{
+    "SerialPort": "/dev/cu.usbserial-1470",
+    "BaudRate": 9600,
+    "DataBits": 8,
+    "StopBits": 1,
+    "Parity": "N"
+}     
+```
 
