@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Software for recording measurements made by sensors (SensorViewer)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+repository-code: 'https://doi.org/10.5281/zenodo.7955166'
+abstract: >-
+   Displays on the screen values of magnitudes measured and sent to the RS232 serial port of a computer.
+keywords:
+  - Measured parameters viewer
+license: MIT
+version: '1.0'
+date-released: '2021-03-18'
