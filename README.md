@@ -35,6 +35,8 @@ Displays on the screen values of magnitudes measured and sent to the RS232 seria
 
 1- **serialport.json**
 
+Example configuration in MacOS
+
 ```json
 {
     "SerialPort": "/dev/cu.usbserial-1470",
@@ -45,3 +47,45 @@ Displays on the screen values of magnitudes measured and sent to the RS232 seria
 }     
 ```
 
+2- **sensorviewer.json**
+
+```json
+{
+    "Reading_Frequency": 5000,
+    "Field_Separator": ";",
+    "Dumpfile": 1,
+    "Finlename": "dumpfile.txt",
+    "AddDateAndTime": 1
+}
+```
+
+3- **parameters.json**
+
+```json
+[
+    {
+        "parameter":"TDS",
+        "unit":"ppm"
+    },
+    {
+        "parameter":"Temperature",
+        "unit":"°C"
+    },
+    {
+        "parameter":"Conductivity",
+        "unit":"mS/cm"
+    },
+    {
+        "parameter":"Salinity",
+        "unit":"PSU"
+    },
+    {
+        "parameter":"Depth",
+        "unit":"m"
+    },
+    {
+        "parameter":"pH",
+        "unit":""
+    }
+] 
+```
