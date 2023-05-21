@@ -56,10 +56,17 @@ Example configuration in MacOS:
     "Reading_Frequency": 5000,
     "Field_Separator": ";",
     "Dumpfile": 1,
-    "Finlename": "dumpfile.txt",
+    "Filename": "dumpfile.txt",
     "AddDateAndTime": 1
 }
 ```
+> Parameterization
+> > Reading_Frequency
+> > > Frequency in milliseconds for saving data to file.
+> > Field_Separator
+> > Dumpfile
+> > Filename
+> > AddDateAndTime
 
 3. **parameters.json**
 
