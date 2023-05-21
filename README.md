@@ -61,11 +61,10 @@ Example configuration in MacOS:
 }
 ```
 > Parameterization
-> > ***Reading_Frequency***
-> > > Frequency in milliseconds for saving data to file.
-
-> > ***Field_Separator***
-> > > Data separator.
+>> ***Reading_Frequency***
+>>> Frequency in milliseconds for saving data to file.
+>> ***Field_Separator***
+>>> Data separator.
 
 > > ***Dumpfile***
 > > > 1 Save the data to a file.
